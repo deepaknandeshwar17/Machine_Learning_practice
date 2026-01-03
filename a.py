@@ -13,7 +13,7 @@
 age = int(input())
 
 
-if age >=18:
+if age >=20:
     print("Yes")
 else:
     print("no")
