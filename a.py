@@ -14,6 +14,6 @@ age = int(input())
 
 
 if age >=18:
-    print("ok")
+    print("Yes")
 else:
     print("no")
